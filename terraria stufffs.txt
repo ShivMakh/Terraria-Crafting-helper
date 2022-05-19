@@ -1,0 +1,85 @@
+Terraria
+#
+seed: 05162020 - main main world, has both evil biomes
+
+make better houses(match biome)
+	ocean house-fence wall (https://www.youtube.com/watch?v=JG7pqdKlzEU)
+	wooden beam in room with grey brick background (14:00 in video)
+	
+transfer vanila stuff to tmodloader
+
+Data ID- chest
+Inventory Management-Weapons, armour
+		Pickaxes/hammer/axes/hammaxes , light sources
+		blocks and platforms
+		explosives
+		healing
+		potions(spelunker/hunter/shine/potion/obsidian/return,water candles)
+
+		Profitable-gem(not diamonds) turn to stained glass to sell
+			white and black pearls
+			web-silk to sell
+			lens,rotten chunks, tattered cloth->bosses to farm
+		Other-fishing rod,rope
+		
+
+https://www.youtube.com/watch?v=ya_CUBgc-0Y
+
+
+https://terraria.fandom.com/wiki/Terraria_Wiki
+
+
+prehard mode checklish
+https://www.reddit.com/r/Terraria/comments/hdcxb9/14_prehardmode_checklist/?utm_source=BD&utm_medium=Search&utm_name=Bing&utm_content=PSR1
+
+
+new character starter pack-grand design, spelunker sticks, 
+	weakest drill (with worst modifiers), stack torches for torch god, 
+	piggy bank, rare creature and metal detector,(10 CHESTS, 999 torches) 
+
+https://www.youtube.com/watch?v=XGXq1wLh4MU
+
+https://www.youtube.com/watch?v=latrOWyTFC4
+
+torch god, fishing farm, golf course
+
+fish farm and also afk statue/monster farm together
+https://forums.terraria.org/index.php?threads/fishing-farm-for-1-4.93615/
+with switch to drop down, land on actuated pressure plate(plate pressable if drop down open-actuared off if drop closed)
+
+
+meteorite conditions to stop more meterors from falling -800block above 0ft
+
+heart station at spawn point 
+
+hellevators and set up for teleporter -hellevator and side to side
+gnomes at all towns and in battle arena
+
+
+chests-, other potionsw parts, extra potion parts, battle potion parts
+
+spawn point---> battle arena, need walls platforms and boosts, incl sharpening station ect, battle points 
+
+between spawn point and forest pylon: plant and monster farming, crafting stations, old stuff display
+mini biomes, artificial fishing biomes (https://forums.terraria.org/index.php?threads/fishing-farm-for-1-4.93615/)
+
+Fishing-300tile area tiles of liquid (top row of cont liquid tiles) 
+	HONEY, LAVA (hardmode with hotline fishing hook), BLOODMOON
+cavern layer TOWN with gemcorns trees, sunflowers to slow spread
+
+placed coin and ore piles
+
+https://terraria.fandom.com/wiki/Guide:Ideas
+
+dungeon guardian
+
+hardmode graveyard dryad sells opposite corruption seeds
+bloodmoon-fishing,
+	 new sells: skeleton merchant(hardmode, trigger blood moon to get slap hand),
+	 cyborg, steampunker, dye trader, painter, dryad, clothier, arms dealer and 
+	merchant new sells
+	Fishing offers several useful rewards, notably (in Hardmode) the valuable 
+		Scaly Truffle (in an area that is also infected with Hallow or the evil biome).
+
+
+https://www.youtube.com/watch?v=PZNGn8F85w8

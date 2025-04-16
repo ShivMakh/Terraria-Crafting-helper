@@ -1,5 +1,12 @@
 Terraria
 #
+
+
+fishing biome - all walls off screen, with platform levels and darts to shoot across
+	middle no walls
+	platforms off screen for getting enemy spawns like mimics 
+
+
 seed: 05162020 - main main world, has both evil biomes
 
 make better houses(match biome)
